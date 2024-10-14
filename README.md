@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋, I'm Jasper</h1>
 <h3 align="center">An AI and Blockchain Enthusiast</h3>
 
-- 🌱 I’m currently learning AI therotical and Applied Knowledge **Pytorch,Sk-Learn, Numpy, Matplotlib ....**
+- 🌱 I’m currently learning  therotical AI and Applied Knowledge like **Pytorch,Sk-Learn, Numpy, Matplotlib ....**
 
 - 📫 How to reach me **jaspertsh08@gmail.com**
 
