@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning  therotical AI and Applied Knowledge like **Pytorch,Sk-Learn, Numpy, Matplotlib ....**
 
-- 📫 How to reach me **jaspertsh08@gmail.com**
+- 📫 How to reach me **242316L@mymail.nyp.edu.sg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
