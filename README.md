@@ -1,5 +1,3 @@
-# Jasper
-
 AI researcher and builder. Currently exploring theoretical foundations and practical applications.
 
 ## Current Focus
